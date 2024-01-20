@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Frontend**
 
 - 👯 I’m looking to collaborate on **Code-Ignition**
 
