@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Bibek</h1>
+<h1 align="center">Hello 👋, I'm Bibek</h1>
 <!-- <h3 align="center">A passionate learner from Nepal</h3> -->
 
 - 🔭 I’m currently working on **Backend**
