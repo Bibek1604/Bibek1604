@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 <h3 align="center">Digit</h3>
-- 🔭 I’m currently working on **Project Ignition**
-- 🤝 I’m looking for help with **Graphics Design**
-- 🌱 I’m currently learning **Frontend**
+<p>- 🔭 I’m currently working on **Project Ignition**</p>
+<p>- 🤝 I’m looking for help with **Graphics Design**</p>
+<p>- 🌱 I’m currently learning **Frontend**</p>
 
 - 📫 How to reach me **workswithbibek@gmail.com**
 
