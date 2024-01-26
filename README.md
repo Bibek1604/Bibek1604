@@ -41,32 +41,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Bibek1604">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bibek1604&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bibek1604&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bibek1604&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bibek1604&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibek1604&theme=2077" height="180em" />
-</div>
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
 
-Please Don't Forget to Star This Repository
-FlowBite Logo
-Github Readme Generator
-RESOURCES
-Github Readme Generator
-Source Code
-FOLLOW US
-Github
-Linkedin
-LEGAL
-Privacy Policy
-Terms & Conditions
-© 2023 . All Rights Reserved.
-Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
+
