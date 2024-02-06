@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bibek</h1>
-<h3 align="center">Digital Nomad</h3> 
-<p>- 🔭 I’m currently working on **Project Ignition**</p> -->
+<!-- <h3 align="center">Digital Nomad</h3> 
+<p>- 🔭 I’m currently working on **Project Ignition**</p> --> -->
 <p>- 🤝 I’m looking for help with **Graphics Design**</p>
 <p>- 🌱 I’m currently learning **Frontend**</p>
 
