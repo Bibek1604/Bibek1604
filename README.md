@@ -1,12 +1,3 @@
-<div align="center">
-
-
-<p>
-  A developer with passion, precision, and purpose.  
-</p>
-
-
-
 
 ## 🛠 Tech Arsenal  
 
@@ -41,7 +32,6 @@
 
 
 
-<div align="center">
 
 
 </div>
