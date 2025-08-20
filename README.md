@@ -5,13 +5,6 @@
   A developer with passion, precision, and purpose.  
 </p>
 
-<img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-2ECC71?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Data-Driven%20Decisions-1E90FF?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Innovation-Never%20Stops-FF5733?style=for-the-badge&logo=rocket" />
-
-</div>
-
----
 
 
 
