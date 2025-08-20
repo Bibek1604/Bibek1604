@@ -11,16 +11,9 @@
 
 </div>
 
----
 
 
-## 📈 GitHub in Action  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibek1604&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bibek1604&theme=radical&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🌍 Connect with Me  
 
