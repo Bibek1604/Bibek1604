@@ -1,19 +1,71 @@
-<h1 align="center">Hi 👋, I'm Bibek</h1>
+<div align="center">
+  <h1>👋 Hey, I'm Bibek Pandey!</h1>
+  <p>A passionate developer crafting innovative solutions at <b>NDH Technologies</b> and diving deep into <b>Data Science</b>.</p>
+  <img src="https://img.shields.io/badge/-Data%20Science%20Enthusiast-1E90FF?style=flat-square&logo=python" alt="Data Science Badge" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-2ECC71?style=flat-square&logo=react" alt="Full Stack Badge" />
+</div>
 
-- 🔭 I’m currently working on **NDH Technologies**
+---
 
-- 🌱 I’m currently learning **DataScience**
+### 🚀 About Me
+I'm a software engineer blending creativity and code to build impactful tech. Currently, I'm:
+- 🔭 Leading projects at **NDH Technologies**, where we’re redefining industry solutions.
+- 🌱 Mastering **Data Science** with Python, diving into ML models and data visualization.
+- 💡 Exploring full-stack development with React, Django, and Node.js.
 
-- 📫 How to reach me **calltobibek@gmail.com**
+> **Why trust my work?** I believe in open-source transparency—check my repos for clean, documented code. Every project is a step toward solving real-world problems, and I’m always learning to stay cutting-edge.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bibek-pandey-43313723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bibek-pandey-43313723b/" height="30" width="40" /></a>
-<a href="https://discord.gg/imbibek007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imbibek007" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠️ My Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,nodejs,express,mongodb,postgresql,mysql,javascript,tailwind,sass" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,firebase,aws,chartjs,d3js,jest" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibek1604&show_icons=true&locale=en&layout=compact" alt="bibek1604" /></p>
+---
 
+### 📊 Data Science Journey
+<div align="center">
+  <p>Progress: <b>60% to Data Science Mastery</b></p>
+  <progress value="60" max="100"></progress>
+  <p>Currently tackling: Machine Learning with Scikit-learn & TensorFlow</p>
+</div>
+
+---
+
+
+
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bibek1604&show_icons=true&theme=radical&hide_border=true" alt="Bibek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bibek1604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Let’s Connect!
+<div align="center">
+  <a href="mailto:calltobibek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-calltobibek@gmail.com-FF6F61?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bibek-pandey-43313723b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bibek%20Pandey-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/imbibek007">
+    <img src="https://img.shields.io/badge/Discord-imbibek007-5865F2?style=flat-square&logo=discord" alt="Discord" />
+  </a>
+</div>
+
+> **Fun fact**: I’m a coffee-fueled coder who believes data tells stories—let’s write some epic ones together!
+
+---
+
+<div align="center">
+  <p>Built with 💖 by Bibek </a></p>
+</div>
