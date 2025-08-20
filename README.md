@@ -46,9 +46,6 @@
 <div align="center">
 
 
-🚀 Curiosity powers my journey.  
-
----
-
+Curious
 
 </div>
