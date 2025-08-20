@@ -44,6 +44,4 @@
 <div align="center">
 
 
-Curious
-
 </div>
