@@ -1,6 +1,5 @@
 <div align="center">
 
-### 💡 Turning Ideas into Scalable Tech | 📊 Data Enthusiast |
 
 <p>
   A developer with passion, precision, and purpose.  
@@ -14,14 +13,7 @@
 
 ---
 
-## 🚀 About Me  
 
-✨ **Builder at Heart** → I design software that solves real-world challenges.  
-
-
-> 💬 *“I believe good software is not just written — it’s engineered with clarity, trust, and innovation.”*
-
----
 
 ## 🛠 Tech Arsenal  
 
