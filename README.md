@@ -31,8 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek1604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
 ## 🌍 Connect with Me  
 
 <div align="center">
@@ -41,7 +39,7 @@
   <a href="https://discord.gg/imbibek007"><img src="https://img.shields.io/badge/Discord-imbibek007-5865F2?style=for-the-badge&logo=discord" /></a>
 </div>
 
----
+
 
 <div align="center">
 
