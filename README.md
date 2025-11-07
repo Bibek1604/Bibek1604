@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=python,django,flask,react,nodejs,express,typescript,tailwind,postgresql,mongodb,mysql" />  
 
 ### Tools & Beyond  
-<img src="https://skillicons.dev/icons?i=java,firebase,aws,git,docker,chartjs,d3js" />
+<img src="https://skillicons.dev/icons?i=java,firebase,aws,git,chartjs,d3js" />
 
 </div>
 
